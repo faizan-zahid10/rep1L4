@@ -15,6 +15,12 @@ import java.awt.event.ActionListener;
 
 public class Lab4q1 
 {
+    static void greetings()
+    {
+        System.out.println("Hey I am greetings function,added for git question!");
+    }
+    
+    
     public static void main(String[] args) 
     {
         JFrame frame1 = new JFrame("Swing Hello World");
